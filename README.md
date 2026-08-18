@@ -1,6 +1,10 @@
 # PocketDash
 
-PocketDash is an Android application built for the Movozen Pocket Dashcam Challenge. It turns an Android smartphone into a connected live dashcam that streams real-time camera video and microphone audio over RTMP.
+> Android live dashcam application streaming 720p H.264 video and AAC audio over RTMP to the Movozen server.
+
+## Overview
+
+PocketDash turns an Android smartphone into a connected live dashcam for the Movozen Pocket Dashcam Challenge. It captures real-time video from the device camera and microphone audio, encoding them into H.264 and AAC formats, and streams directly to the Movozen RTMP server endpoints.
 
 ## Features
 
